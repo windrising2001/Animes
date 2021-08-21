@@ -1,0 +1,7 @@
+site_name: 动画、音乐年表
+nav:
+    - 主页: index.md
+    - 动画索引: 动画索引.md
+    - 音乐索引: 音乐索引.md
+theme:
+  name: 'material'
